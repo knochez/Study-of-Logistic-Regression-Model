@@ -18,11 +18,14 @@ The main steps were:
 where 𝜎 is the sigmoid activation function.
 
 **Applying the Binary Cross-Entropy (BCE) Loss Function**
+
 Used to measure how far predictions are from the actual labels.
 
 **Training with Gradient Descent**
+
 The parameters 𝑤 and 𝑏 were updated iteratively according to:
 ​
+
 <img width="272" height="62" alt="image" src="https://github.com/user-attachments/assets/0dc0d3cf-e12a-4ba4-88aa-53419edbea4a" />
 
 
