@@ -11,12 +11,13 @@ The focus was on building a working model from scratch, emphasizing the mathemat
 The Logistic Regression model was implemented step-by-step using NumPy for mathematical operations and scikit-learn for dataset preprocessing.
 The main steps were:
 
-Defining the Hypothesis Function
+**Defining the Hypothesis Function**
+
 <img width="141" height="52" alt="image" src="https://github.com/user-attachments/assets/eb4be6ff-0968-4129-9b0b-481df6cb986d" />
 
 where 𝜎 is the sigmoid activation function.
 
-Applying the Binary Cross-Entropy (BCE) Loss Function
+**Applying the Binary Cross-Entropy (BCE) Loss Function**
 Used to measure how far predictions are from the actual labels.
 
 **Training with Gradient Descent**
